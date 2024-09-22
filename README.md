@@ -1,18 +1,41 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussain101)](https://github.com/anuraghazra/github-readme-stats)
+# Hi there 👋, I'm Hussain
 
-<!--
-**Hussain101/Hussain101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me:
+- 🔭 I’m currently working on Sheppardd(link-to-project: https://app.sheppardd.io/)
+- 🌱 I’m currently learning **[Technology/Skill]**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Tech, Coding, or Anything!**
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- ⚡ Fun fact: I love **[Your Fun Fact]!**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussain101)](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+
+---
+
+### 📊 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+### 📫 Let's Connect:
+[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)
+[![Twitter Badge](https://img.shields.io/badge/-@yourtwitterhandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourtwitterhandle)](https://twitter.com/yourtwitterhandle)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+
+---
+
+### 🌟 Repositories Worth Checking:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-repo-name)](https://github.com/your-username/project-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=another-repo-name)](https://github.com/your-username/another-repo-name)
+
+---
+
+### ⚡ Fun Stats:
+![](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
