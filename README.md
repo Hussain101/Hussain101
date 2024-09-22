@@ -18,7 +18,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussain101&hide=prs,issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussain101&hide=contribs,prs,issues)
 
 ---
 
