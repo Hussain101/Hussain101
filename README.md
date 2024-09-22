@@ -11,11 +11,7 @@
 ---
 
 ### 🛠️ Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+<p align="left"> <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="Python" /> <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker" alt="Docker" /> <img src="https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visual-studio-code" alt="VS Code" /> </p>
 
 ---
 
