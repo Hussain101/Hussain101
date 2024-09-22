@@ -18,7 +18,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussain101&hide=contribs,issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussain101&hide=prs)
 
 ---
 
