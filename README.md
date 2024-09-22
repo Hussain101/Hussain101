@@ -30,7 +30,7 @@
 ---
 
 ### 🌟 Repositories Worth Checking:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=digitaluxpk&repo=sheppard-fe)](https://github.com/digitaluxpk/sheppard-fe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hussain101&repo=E-commerce-Responsive.git.io)](https://github.com/Hussain101/E-commerce-Responsive.git.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=digitaluxpk&repo=junior-hockey-review)](https://github.com/digitaluxpk/junior-hockey-review)
 
 ---
