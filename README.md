@@ -30,7 +30,7 @@
 ---
 
 ### 🌟 Repositories Worth Checking:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hussain101&repo=project-repo-name)](https://github.com/your-username/project-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=digitaluxpk&sheppard-fe)](https://github.com/digitaluxpk/sheppard-fe)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hussain101&repo=another-repo-name)](https://github.com/your-username/another-repo-name)
 
 ---
