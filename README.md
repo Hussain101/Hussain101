@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning **[Technology/Skill]**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Tech, Coding, or Anything!**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- ⚡ Fun fact: I love **[Your Fun Fact]!**
+- 📫 How to reach me: [hussainsidd88@gmail.com](mailto:hussainsidd88@gmail.com)
+- ⚡ Fun fact: I love **to be alone!**
 
 ---
 
@@ -30,8 +30,8 @@
 ---
 
 ### 🌟 Repositories Worth Checking:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=digitaluxpk&sheppard-fe)](https://github.com/digitaluxpk/sheppard-fe)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hussain101&repo=another-repo-name)](https://github.com/your-username/another-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=digitaluxpk&repo=sheppard-fe)](https://github.com/digitaluxpk/sheppard-fe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=digitaluxpk&repo=junior-hockey-review)](https://github.com/digitaluxpk/junior-hockey-review)
 
 ---
 
