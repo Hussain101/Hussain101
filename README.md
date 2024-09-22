@@ -20,7 +20,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussain101&show_icons=true&theme=radical)
 
 ---
 
@@ -32,8 +32,8 @@
 ---
 
 ### 🌟 Repositories Worth Checking:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-repo-name)](https://github.com/your-username/project-repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=another-repo-name)](https://github.com/your-username/another-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hussain101&repo=project-repo-name)](https://github.com/your-username/project-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hussain101&repo=another-repo-name)](https://github.com/your-username/another-repo-name)
 
 ---
 
