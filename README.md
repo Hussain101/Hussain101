@@ -1,14 +1,19 @@
 # Hi there 👋, I'm Hussain
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on [Sheppardd](https://app.sheppardd.io/)
-- 🌱 I’m currently learning **[Technology/Skill]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Tech, Coding, or Anything!**
-- 📫 How to reach me: [hussainsidd88@gmail.com](mailto:hussainsidd88@gmail.com)
-- ⚡ Fun fact: I love **to be alone!**
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right">
+<div align="left">
+  <ul>
+    <li>🔭 I’m currently working on <a href="https://app.sheppardd.io/">Sheppardd</a></li>
+    <li>🌱 I’m currently learning <strong>[Technology/Skill]</strong></li>
+    <li>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></li>
+    <li>💬 Ask me about <strong>Tech, Coding, or Anything!</strong></li>
+    <li>📫 How to reach me: <a href="mailto:hussainsidd88@gmail.com">hussainsidd88@gmail.com</a></li>
+    <li>⚡ Fun fact: I love <strong>to be alone!</strong></li>
+  </ul>
+</div>
+<div align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+</div>
 
 ---
 
