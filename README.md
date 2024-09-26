@@ -1,18 +1,18 @@
 # Hi there 👋, I'm Hussain
 
-### 🚀 About Me:
-<div align="left">
-  <ul>
-    <li>🔭 I’m currently working on <a href="https://app.sheppardd.io/">Sheppardd</a></li>
-    <li>🌱 I’m currently learning <strong>[Technology/Skill]</strong></li>
-    <li>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></li>
-    <li>💬 Ask me about <strong>Tech, Coding, or Anything!</strong></li>
-    <li>📫 How to reach me: <a href="mailto:hussainsidd88@gmail.com">hussainsidd88@gmail.com</a></li>
-    <li>⚡ Fun fact: I love <strong>to be alone!</strong></li>
-  </ul>
-</div>
-<div align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    ### 🚀 About Me:
+    - 🔭 I’m currently working on [Sheppardd](https://app.sheppardd.io/)
+    - 🌱 I’m currently learning **[Technology/Skill]**
+    - 👯 I’m looking to collaborate on **Open Source Projects**
+    - 💬 Ask me about **Tech, Coding, or Anything!**
+    - 📫 How to reach me: [hussainsidd88@gmail.com](mailto:hussainsidd88@gmail.com)
+    - ⚡ Fun fact: I love **to be alone!**
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+  </div>
 </div>
 
 ---
@@ -31,22 +31,11 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussain101&hide=contribs,prs,issues)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussain101&hide=contribs,prs,issues) -->
+
 
 ---
 
 ### 📫 Let's Connect:
 [![Linkedin Badge](https://img.shields.io/badge/-Hussain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter Badge](https://img.shields.io/badge/-@yourtwitterhandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourtwitterhandle)](https://twitter.com/yourtwitterhandle)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-
----
-
-### 🌟 Repositories Worth Checking:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hussain101&repo=E-commerce-Responsive.git.io)](https://github.com/Hussain101/E-commerce-Responsive.git.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=digitaluxpk&repo=junior-hockey-review)](https://github.com/digitaluxpk/junior-hockey-review)
-
----
-
-### ⚡ Fun Stats:
-![](https://komarev.com/ghpvc/?username=Hussain101&color=brightgreen)
+[![Twitter Badge](https://img.shields.io/badge/-@yourtwitterhandle-1DA1F2?style=flat-square&logo=twitter&logoColor=
