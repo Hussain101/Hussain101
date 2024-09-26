@@ -11,11 +11,18 @@
     <li>📫 How to reach me: <a href="mailto:hussainsidd88@gmail.com">hussainsidd88@gmail.com</a></li>
     <li>⚡ Fun fact: I love <strong>to be alone!</strong></li>
   </ul>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" alt="Coding GIF">
+<!--   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" alt="Coding GIF"> -->
 </p>
 
 ---
+### 🚀 Badges:
 
+<!-- Add your badges below the About Me section -->
+![GitHub followers](https://img.shields.io/github/followers/Hussain101?label=Follow&style=social)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain101&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=Hussain101&color=brightgreen)
+![GitHub Stars](https://img.shields.io/github/stars/Hussain101?label=Stars&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)
 ### 🛠️ Languages and Tools:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain101&layout=compact&theme=radical)
 
