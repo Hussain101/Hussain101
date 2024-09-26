@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Hussain
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
     ### 🚀 About Me:
     - 🔭 I’m currently working on [Sheppardd](https://app.sheppardd.io/)
     - 🌱 I’m currently learning **[Technology/Skill]**
@@ -10,7 +10,7 @@
     - 📫 How to reach me: [hussainsidd88@gmail.com](mailto:hussainsidd88@gmail.com)
     - ⚡ Fun fact: I love **to be alone!**
   </div>
-  <div>
+  <div style="flex: 1; text-align: right;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
   </div>
 </div>
@@ -33,9 +33,15 @@
 ### 📊 GitHub Stats:
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussain101&hide=contribs,prs,issues) -->
 
-
 ---
 
 ### 📫 Let's Connect:
 [![Linkedin Badge](https://img.shields.io/badge/-Hussain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter Badge](https://img.shields.io/badge/-@yourtwitterhandle-1DA1F2?style=flat-square&logo=twitter&logoColor=
+[![Twitter Badge](https://img.shields.io/badge/-@yourtwitterhandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourtwitterhandle)](https://twitter.com/yourtwitterhandle)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+
+---
+
+### 🌟 Repositories Worth Checking:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hussain101&repo=E-commerce-Responsive.git.io)](https://github.com/Hussain101/E-commerce-Responsive.git.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=digitaluxpk
