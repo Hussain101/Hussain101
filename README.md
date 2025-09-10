@@ -6,7 +6,7 @@
   <ul>
     <li>🔭 I’m currently working on <a href="https://video-ai-m4h9.vercel.app/">Video Ai</a></li>
     <li>🌱 I’m currently learning <strong>React three Fibre, Three.js GASP</strong> to have amazing 3d experience< in 3d world/li>
-    <li>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></li>
+    <li>👯 I’m looking to collaborate on <strong>Open Source Projectss</strong></li>
     <li>💬 Ask me about <strong>Tech, Coding, or Anything!</strong></li>
     <li>📫 How to reach me: <a href="mailto:hussainsidd88@gmail.com">hussainsidd88@gmail.com</a></li>
     <li>⚡ Fun fact: I love <strong>to be alone!</strong></li>
